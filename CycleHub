@@ -1,0 +1,1 @@
+loadstring(game:httpget("https://raw.githubusercontent.com/CycleKJ/Modifed-Tam-Hub-/refs/heads/main/Modifed%20Tam%20Hub"))()
